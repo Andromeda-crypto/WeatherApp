@@ -5,8 +5,6 @@ import time
 
 def getWeather():
     city = textfield.get()
-    
-
 
 
 canvas = tk.TK()
